@@ -1,0 +1,21 @@
+{
+    "name": "Noir",
+    "version": "1.0.1",
+    "description": "Noir theme.",
+    "manifest_version": 3,
+    "theme": {
+        "colors": {
+            "frame": [0, 0, 0],
+            "frame_inactive": [0, 0, 0],
+            "toolbar": [20, 20, 20],
+            "tab_text": [255, 255, 255],
+            "tab_background_text": [255, 255, 255],
+            "bookmark_text": [255, 255, 255],
+            "ntp_background": [0, 0, 0],
+            "ntp_text": [255, 255, 255],
+            "ntp_link": [255, 255, 255],
+            "button_background": [0, 0, 0, 1]
+        },
+        "tints": { "buttons": [0, 0, 1] }
+    }
+}
